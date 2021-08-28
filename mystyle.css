@@ -1,0 +1,81 @@
+body {
+  background-color: black;
+}
+
+.dirt3 {
+  font-family: "Nosifer", cursive;
+  font-size: 85px;
+  text-align: center;
+  color: red;
+  text-shadow: -1px -1px 0 rgb(253, 253, 252), 1px -1px 0 rgb(253, 252, 252),
+    -1px 1px 0 rgb(248, 245, 245), 1px 1px 0 rgb(240, 236, 236);
+}
+h2 {
+  font-family: "Nosifer", cursive;
+  text-align: center;
+  font-size: 90px;
+  color: red;
+}
+
+.logo {
+  width: 1080px;
+  margin: 0 auto;
+}
+.nav {
+  font-size: 36px !important;
+
+
+}
+.navi {
+  width: 1280px;
+  margin: 0 auto;
+  font-family: "Metal Mania", cursive;
+
+
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+}
+.atx {
+  font-family: "Metal Mania", cursive;
+  font-size: 70px;
+  text-align: center;
+  font-weight: 550;
+  text-shadow: -1px -1px 0 gold, 1px -1px 0 yellow, -1px 1px 0 gold, 1px 1px 0 yellow;
+}
+.atx1 {
+  font-family: "Metal Mania", cursive;
+  font-size: 48px;
+  text-align: center;
+  font-weight: 500;
+  text-shadow: -1px -1px 0 gold, 1px -1px 0 yellow, -1px 1px 0 gold, 1px 1px 0 yellow;
+}
+.nav-link{
+  color:brown;
+  text-shadow: -1px -1px 0 gold, 1px -1px 0 yellow, -1px 1px 0 gold, 1px 1px 0 yellow;
+ 
+}
+/*
+
+
+.dirt5 {
+  font-family: "Metal Mania", cursive;
+  font-size: 68px;
+  text-align: center;
+}
+.dirt6 {
+  font-family: "Nosifer", cursive;
+  font-size: 68px;
+  text-align: center;
+}
+.dirt7 {
+  font-family: "Piedra", cursive;
+  font-size: 68px;
+  text-align: center;
+}*/
